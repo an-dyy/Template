@@ -4,8 +4,7 @@
 	"github_username": "an-dyy",
 	"project_name": "Template Project",
 	"repo_name": "Template",
+    "project_slug": "template",
 	"project_short_description": "Simple project template.",
-	"release_date": "2022-03-13",
-	"year": "2022",
 	"version": "0.1.0"
 }
